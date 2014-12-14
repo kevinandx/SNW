@@ -4,10 +4,10 @@
 <?php
 $snw = rand(1,100);
  ?>
-<script type="text/javascript" src="js/jquery-1.7.2.prod.js"></script>
-	<script type="text/javascript" src="js/jquery.snw.prod.js"></script>
+<script type="text/javascript" src="js/jquery-1.7.2.xxx.xxx.xxx.js"></script>
+	<script type="text/javascript" src="js/jquery.xxx.xxx.xxx.js"></script>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Untitled Document</title>
+<title>Random Scratch and Win Javascript with PHP Ticket</title>
 	<style type="text/css">
 	
 .main,.scratchCard,.scratchCard canvas{
